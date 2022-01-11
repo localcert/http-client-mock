@@ -1,0 +1,7 @@
+[package]
+name = "http-client-mock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+http-client = { version = "6.5", default_features = false }
